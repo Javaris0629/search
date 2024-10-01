@@ -11,9 +11,9 @@ const fontSans = FontSans({
   variable: '--font-sans'
 })
 
-const title = 'Perplexity AI Clone'
+const title = 'AI Search'
 const description =
-  'A open-source AI-powered answer engine with a generative UI.'
+  'AI-powered answer engine with a generative UI.'
 
 export const metadata: Metadata = {
   title,
